@@ -3,7 +3,7 @@ AI is trained to play the game of snake using a shallow neural net and reinforce
 
 
 ### Generation 1 vs Generation 343
-<img src="./images/gif/1_10fps.gif" width="40%"><img src="./images/gif/343_10fps.gif" width="40%">
+<img src="./images/gif/1_10fps.gif" width="47%"><img src="./images/gif/343_10fps.gif" width="47%">
 
 ## Timelapse of Progress:
 
