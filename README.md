@@ -228,5 +228,6 @@ The nerural network weights for the entire last generation of snakes is always s
 
 ## Try it yourself.
 
-If you do not already have TensorFlow installed, you can play against the ai-snake here:
+If you do not already have TensorFlow installed, you can play against the ai-snake here:<br>
+<a href="https://lprowe.github.io/lpr-website/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a>
 
