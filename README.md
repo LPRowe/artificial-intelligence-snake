@@ -233,8 +233,10 @@ If you do not already have TensorFlow installed, you can play against the ai-sna
 
 ## Genetic algorithm process
 
-I will discuss this section in more detail in the future, but for now here is the process in a nut shell. <br>
+<details>
 
+<summary>I will discuss this section in more detail in the future, but for now here is the process in a nut shell. (click to show)</summary>
+<br>
 Each snake is an agent.  And the agent's DNA consists of 422 genes.  Where each gene is a floating point number that represents either a connection weight or a bias weight in the neural net.<br>
 
 422 comes from the shape of the neural net, 18 inputs, 14 hidden_layer_1 nodes, 8 hidden_layer_2 nodes, and 4 output nodes.<br>
@@ -290,3 +292,5 @@ After mutation, the next generation of agents is ready to be tested, and the cyc
 This process of selecting the most fit agents, performing cross-over on their genes, and mutating a random subset of the genes will gradually tune the neural networks weights to create a fit agent.  <br>
 
 I will not discuss all of the dangers and short-comings of the genetic algorithm here, but I will point out one that is easily observable in the above plot.  And that is the risk of getting caught in a local maxima.  Truncating the fitness vs generation plot at 160, 270, or 343 generations, it looks like the model is approaching it's maximum, but there's no guarantee that a substantially better combination of weights for the model does not exist.  
+
+</details>
