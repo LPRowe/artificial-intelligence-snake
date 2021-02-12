@@ -31,9 +31,7 @@ The count down is for the snakes energy.  Every space that the snake moves costs
 
 ### Can you defeat AI snake?
 
-Try the playing JavaScript version here: <br>
-
-https://lprowe.github.io/lpr-website/projects/ai-snake-playable/index.html<br>
+Try the playing JavaScript version here: <a href="https://lprowe.github.io/lpr-website/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a><br>
 
 Please excuse my JavaScript, converting this project from python to JavaScript was my first experience with the language.
 
