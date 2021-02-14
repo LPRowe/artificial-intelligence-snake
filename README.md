@@ -31,7 +31,7 @@ The count down is for the snakes energy.  Every space that the snake moves costs
 
 ### Can you defeat AI snake?
 
-Try the playing JavaScript version here: <a href="https://lprowe.github.io/lpr-website/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a><br>
+Try the playing JavaScript version here: <a href="https://mlpr.dev/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a><br>
 
 Please excuse my JavaScript, converting this project from python to JavaScript was my first experience with the language.
 
@@ -229,7 +229,7 @@ The nerural network weights for the entire last generation of snakes is always s
 ## Try it yourself.
 
 If you do not already have TensorFlow installed, you can play against the ai-snake here:<br>
-<a href="https://lprowe.github.io/lpr-website/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a>
+<a href="https://mlpr.dev/projects/ai-snake-playable/index.html" target="_blank"><b>AI Snake JavaScript Version</b></a>
 
 ## Genetic algorithm process
 
